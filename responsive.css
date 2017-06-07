@@ -13,11 +13,6 @@ html {
 	margin:0 auto;
 	position:relative;
 }
-.wrapper:after,ul.menuBar {
-	content:'';
-	clear:both;
-	display:table;
-}
 .row {
 	margin-left:-15px;
 	margin-right:-15px;
